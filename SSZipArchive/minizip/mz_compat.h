@@ -15,7 +15,7 @@
 #define MZ_COMPAT_H
 
 #include "mz.h"
-#include "../SSZipCommon.h"
+#include "../Public/SSZipCommon.h"
 
 #ifdef __cplusplus
 extern "C" {
